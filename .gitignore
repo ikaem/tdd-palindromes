@@ -1,1 +1,3 @@
-node_modules
+# .gitingore
+node_modules/
+.vscode/
