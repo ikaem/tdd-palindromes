@@ -1,9 +1,8 @@
 // palindromes.js
 
-const palindromes = (str) => {
+const palindromes = str => {
   console.log("test");
   return [str];
 };
-
 
 module.exports = palindromes;
